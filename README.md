@@ -8,9 +8,8 @@
 <p align="center">  
 <img src="https://user-images.githubusercontent.com/53872365/141668523-a1eabd42-0645-4a23-923f-d617de9a1043.png" width="700" height="350">
 </p>
-<img width="551" alt="Screenshot 2021-11-14 at 12 14 39 AM" >
 
 <h4>Residual Block</h4>
 <p align="center">  
-<img src="https://user-images.githubusercontent.com/53872365/141668599-bf43a76a-8cb7-4cfe-b7fa-6621e57c7089.png" width="700" height="350">
+<img width="531" alt="Screenshot 2021-11-14 at 12 16 33 AM" src="https://user-images.githubusercontent.com/53872365/141668639-ffa0d9af-106e-4e6f-9c0f-f6b7f4aa61ff.png">  
 </p>
